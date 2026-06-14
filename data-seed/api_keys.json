@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5578cbfb-54b2-44be-b50e-8979edd56877",
+    "userId": "a1fd04c0-1367-4b37-af43-f64ce63895c1",
+    "name": "生产环境 Agent",
+    "prefix": "hx_live_a8f3",
+    "secretHash": "$2b$10$mRdO5FqRaW0BFXA/NQ31SuQtIcRco0HsbsRvGnv9TmMMTfhuFRMF6",
+    "scopes": "[\"read:wallet\",\"read:market\",\"write:copy\"]",
+    "status": "active",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "lastUsedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "d613b354-61b3-49bd-8a31-c43775f39137",
+    "userId": "513fdcc6-769c-47cd-9ba0-134a6011f1e4",
+    "name": "数据分析脚本",
+    "prefix": "hx_live_c2d9",
+    "secretHash": "$2b$10$TJLoCSl66ZDTF37/uk09ROdfGa67i1P9k25eAlu8l2vYrdNGBEZo6",
+    "scopes": "[\"read:wallet\",\"read:market\"]",
+    "status": "active",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "lastUsedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "d6ce8433-7671-43bc-b494-001c70c2cab5",
+    "userId": "e1dd168c-b640-4092-8be4-90c13ff5d014",
+    "name": "测试环境",
+    "prefix": "hx_test_7b1e",
+    "secretHash": "$2b$10$TyFvvloDk7XXvVKP4oAMzO94IXyZE9mkMwnUVIJ3QDlDVzou9ch/q",
+    "scopes": "[\"read:market\"]",
+    "status": "expiring",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "lastUsedAt": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "site_name",
+    "value": "HyperX Console",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "key": "api_rate_limit",
+    "value": "10000",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "key": "maintenance_mode",
+    "value": "false",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a1fd04c0-1367-4b37-af43-f64ce63895c1",
+    "displayName": "Trader_Alpha",
+    "email": "alpha@example.com",
+    "walletAddress": "0x8f3a2b1c9d4e5f6789012345678901234567d7e2",
+    "plan": "Pro",
+    "timezone": "Asia/Shanghai",
+    "status": "active",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "513fdcc6-769c-47cd-9ba0-134a6011f1e4",
+    "displayName": "DeFi_Whale",
+    "email": "whale@example.com",
+    "walletAddress": "0x2b1c9d4e5f6789012345678901234567d7e2a9f4",
+    "plan": "Pro",
+    "timezone": "Asia/Shanghai",
+    "status": "active",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "e1dd168c-b640-4092-8be4-90c13ff5d014",
+    "displayName": "Copy_Bot",
+    "email": "bot@example.com",
+    "walletAddress": "0x7e5d3b8c1a9f4e6789012345678901234567c3b8",
+    "plan": "Free",
+    "timezone": "UTC",
+    "status": "active",
+    "createdAt": "2026-06-14T11:00:20.509Z",
+    "updatedAt": "2026-06-14T11:00:20.509Z"
+  }
+]

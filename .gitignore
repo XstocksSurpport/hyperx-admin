@@ -1,0 +1,12 @@
+data/
+.env
+.env.local
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!data-seed/*.json
+
+# next.js
+.next/
+node_modules/

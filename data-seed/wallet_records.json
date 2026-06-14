@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c24e34b1-909b-43c3-8736-5f41c2ee3a63",
+    "userId": "a1fd04c0-1367-4b37-af43-f64ce63895c1",
+    "address": "0x8f3a2b1c9d4e5f6789012345678901234567d7e2",
+    "importType": "privateKey",
+    "chainId": 42161,
+    "encryptedCredential": "cGTH5RhKhzpKbdjHCeGvmQYO0Cuw+DVNbE4vFHtzpPeaeJnWpHyipo5O4TAgA6z4vfhBG6coQtAurkwAC3x0idWGO3G0Hb7oD1XJZtzhcOUq/w==",
+    "credentialIv": "FamdO54B+K2nQPGt",
+    "connectedAt": "2026-06-14T11:00:20.509Z",
+    "disconnectedAt": null
+  },
+  {
+    "id": "20ef3541-a9ed-4fcc-9867-378c163504a0",
+    "userId": "513fdcc6-769c-47cd-9ba0-134a6011f1e4",
+    "address": "0x2b1c9d4e5f6789012345678901234567d7e2a9f4",
+    "importType": "mnemonic",
+    "chainId": 8453,
+    "encryptedCredential": "3TqB4mn4Ed+DCqY3EqQBAdeALVfAkw5A1Nqo3XbQSeFWMEkKnvbYnuMo7rpV0KHGKjzQRmfd4rafJPLBE57Df3yLqii84PiMo0YrxNlV7RetbbTTHNUSwXfCRNG97wb1pqRVCiRfpalPtQzRUQ==",
+    "credentialIv": "O50jjdglLe/0p4Wn",
+    "connectedAt": "2026-06-14T11:00:20.509Z",
+    "disconnectedAt": null
+  },
+  {
+    "id": "5469eaad-3d60-4fed-bf10-74cd2d9d1d73",
+    "userId": "e1dd168c-b640-4092-8be4-90c13ff5d014",
+    "address": "0x7e5d3b8c1a9f4e6789012345678901234567c3b8",
+    "importType": "privateKey",
+    "chainId": 42161,
+    "encryptedCredential": "D6vzCjh7DkPo2+0NAFpwXHGvHD5WF0vhAu3KXi6j9HR2J7f6TJQ1V/u7T1fYSgZv9theQh8gyoDT3NLwM9V4LhTH6TvFSEGsiXfaDj53Za2vTA==",
+    "credentialIv": "ubTBLmBJXgJ0oy3E",
+    "connectedAt": "2026-06-14T11:00:20.509Z",
+    "disconnectedAt": null
+  }
+]

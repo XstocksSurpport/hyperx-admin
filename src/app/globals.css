@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --admin-bg: #111827;
+  --admin-sidebar: #0f172a;
+  --admin-surface: #1f2937;
+  --admin-border: #374151;
+  --admin-muted: #9ca3af;
+  --admin-fg: #f9fafb;
+  --admin-accent: #f59e0b;
+  --admin-accent-hover: #d97706;
+}
+
+@theme inline {
+  --color-background: var(--admin-bg);
+  --color-foreground: #f9fafb;
+  --font-sans: var(--font-geist-sans);
+}
+
+body {
+  background: var(--admin-bg);
+  color: #f9fafb;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+.admin-panel {
+  background: var(--admin-surface);
+  border: 1px solid var(--admin-border);
+  border-radius: 0.75rem;
+}
+
+.admin-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 9999px;
+  padding: 0.125rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.admin-badge-active {
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--admin-accent);
+}
+
+.admin-badge-muted {
+  background: rgba(156, 163, 175, 0.15);
+  color: var(--admin-muted);
+}

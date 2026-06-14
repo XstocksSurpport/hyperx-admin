@@ -1,0 +1,29 @@
+[
+  {
+    "id": "44bcb4b0-5803-4ec2-beec-ba18e68787b0",
+    "action": "seed",
+    "entity": "system",
+    "entityId": null,
+    "detail": "初始化演示数据",
+    "adminUser": "system",
+    "createdAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "393d276d-91a4-41e7-a331-a30b1de9c811",
+    "action": "create",
+    "entity": "user",
+    "entityId": "a1fd04c0-1367-4b37-af43-f64ce63895c1",
+    "detail": "创建用户 Trader_Alpha",
+    "adminUser": "system",
+    "createdAt": "2026-06-14T11:00:20.509Z"
+  },
+  {
+    "id": "b093e167-ceea-4e32-a2cc-4fa8a98f1068",
+    "action": "create",
+    "entity": "api_key",
+    "entityId": null,
+    "detail": "创建 API 密钥 hx_live_a8f3",
+    "adminUser": "system",
+    "createdAt": "2026-06-14T11:00:20.509Z"
+  }
+]
